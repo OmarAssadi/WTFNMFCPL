@@ -1,0 +1,8 @@
+# Ignore everything...
+*
+
+# But not the important stuff.
+!.gitignore
+!.gitattributes
+!.editorconfig
+!LICENSE.md
